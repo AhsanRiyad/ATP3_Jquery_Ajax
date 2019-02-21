@@ -8,3 +8,7 @@ alias clr='clear'
 cat /dev/null > ~/.bash_history # delete history from files
 history -c # clears current history but keeps it in the file so that it can retrieve again
 clear
+
+
+
+#to start . g/c.sh
